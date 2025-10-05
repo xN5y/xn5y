@@ -28,18 +28,10 @@ As a seasoned full stack developer, I bring a unique combination of technical ex
 ## Projects
 Some of my notable projects include:
 * [ASBGHM](https://asbghm.com)
-* [Ashhh Game](https://ashhh-game.com)
 * [Mi3ad](https://mi3ad.com)
-* [Rkifund](https://rkifund.com)
-
-## GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xn5y&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xn5y&theme=radical" />
-</div>
 
 ## Contact & Social
-You can reach me on [LinkedIn](https://www.linkedin.com/in/fahad-alarife-3ba3b2324/) or via email at [fahad@rkiza.sa](mailto:fahad@rkiza.sa) or [fahadmajedalarife@gmail.com](mailto:fahadmajedalarife@gmail.com).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/alarife) or via email at [fahad@rkiza.sa](mailto:fahad@rkiza.sa) or [fahadmajedalarife@gmail.com](mailto:fahadmajedalarife@gmail.com).
 
 ## Portfolio
 Check out my portfolio at [Fahad Alarifee](https://fahad-alarifee.com) to see more of my work.
